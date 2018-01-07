@@ -8,3 +8,5 @@
 
 #define e 0.333
 #defien f 0.555
+#define g 0.666
+#define hj 0.777
